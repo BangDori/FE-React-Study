@@ -21,14 +21,3 @@ React Study - 리액트를 다루는 기술
 <a href="https://github.com/mingking2/FE-React-Study/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mingking2/FE-React-Study" />
 </a>
-
-<br />
-
-## 진행 상황
-
-| 날짜 | 범위 | 코드 구현 | 보고서 | 사이드 프로젝트 | 여부 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-
-
-<br />
-
